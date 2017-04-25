@@ -1,0 +1,7 @@
+Django==1.11
+django-allauth==0.31.0
+django-crispy-forms==1.6.1
+stripe==1.53.0
+gunicorn==19.7.1
+whitenoise==3.3.0
+
