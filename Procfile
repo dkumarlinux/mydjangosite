@@ -1,1 +1,1 @@
-web: gunicorn mydjangosites.wsgi --log-file=-
+web: gunicorn tryTen.wsgi --log-file=-
